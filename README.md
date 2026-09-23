@@ -20,5 +20,6 @@
 ## Diseño y planificación
 > Sketch, wireframe, mockup y demás material de diseño del equipo (Subidos al drive).
 
-**Carpeta de Drive del equipo:**
-[Caso Kaiju](https://drive.google.com/drive/folders/12vOZTJMERUu-XkpzzRBcUCfUwOX1UqIa?usp=drive_link)
+**Carpetas del equipo:**
+- [Drive Caso Kaiju](https://drive.google.com/drive/folders/12vOZTJMERUu-XkpzzRBcUCfUwOX1UqIa?usp=drive_link)
+- [Tablero Trello](https://trello.com/b/rKnWL8ft/caso-kaiju-desarrollo-apps-moviles)

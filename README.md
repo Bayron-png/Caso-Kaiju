@@ -1,8 +1,8 @@
-![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Plataforma](https://img.shields.io/badge/Platform-Android-green)
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Kotlin-purple)
 ![UI](https://img.shields.io/badge/UI-JetpackCompose-blue)
 
-# NombreApp — GrupoX
+# AppKaiju
 
 **Integrantes**
 | Nombres          | Apellidos       |
@@ -12,13 +12,13 @@
 | Bayron Alexander | Urrutia Flores  |
 
 **Caso**
-> Resumen de 1-2 líneas del caso asignado por el docente.
+> El caso de la tienda Kaiju solicita desarrollar un Producto Mínimo Viable (MVP) para una aplicación móvil Android. Su principal objetivo es automatizar y optimizar el registro, la trazabilidad y la gestión del inventario y ventas, reemplazando el control manual actual por uno actualizado en tiempo real.
 
 **Arquitectura**
 > Kotlin + Jetpack Compose, patrón MVVM.
 
 ## Diseño y planificación
-> Sketch, wireframe, mockup y demás material de diseño del equipo.
+> Sketch, wireframe, mockup y demás material de diseño del equipo (Subidos al drive).
 
 **Carpeta de Drive del equipo:**
 [Caso Kaiju](https://drive.google.com/drive/folders/12vOZTJMERUu-XkpzzRBcUCfUwOX1UqIa?usp=drive_link)

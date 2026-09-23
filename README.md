@@ -7,9 +7,9 @@
 **Integrantes**
 | Nombres          | Apellidos       |
 | ---------------- | --------------- |
-| Bayron Alexander | Urrutia Flores  |
 | Luis Antonio     | Álvarez Requejo |
 | Mario Ignacio    | Andrade Salinas |
+| Bayron Alexander | Urrutia Flores  |
 
 **Caso**
 > Resumen de 1-2 líneas del caso asignado por el docente.

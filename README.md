@@ -4,7 +4,7 @@
 
 # AppKaiju
 
-##**Integrantes**
+## **Integrantes**
 | Nombres          | Apellidos       |
 | ---------------- | --------------- |
 | Luis Antonio     | Álvarez Requejo |

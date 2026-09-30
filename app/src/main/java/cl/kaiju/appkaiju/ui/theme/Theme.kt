@@ -1,5 +1,4 @@
 package cl.kaiju.appkaiju.ui.theme
-
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -10,6 +9,10 @@ import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
+/**
+ *  Aquí se unen los colores y las tipografías(Color.kt y Type.kt)
+ *  Envuelve toda la aplicación y detecta el modo claro/oscuro
+*/
 
 private val DarkColorScheme = darkColorScheme(
     primary = Purple80,

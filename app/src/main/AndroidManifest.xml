@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--  Aquí se declara:
+    - Nombre de la app
+    - Ícono.
+    - Permisos solicitados (cámara-internet-ubicación-etc).
+    - Que pantallas (Activities) existen.                   -->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
